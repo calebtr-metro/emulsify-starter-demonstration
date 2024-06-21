@@ -1,0 +1,10 @@
+{
+  "project": {
+    "platform": "drupal",
+    "name": "Demonstartion starter theme",
+    "machineName": "demonstration-starter-theme"
+  },
+  "starter": {
+    "repository": "https://github.com/calebtr-metro/emulsify-starter-demonstration.git"
+  }
+}
